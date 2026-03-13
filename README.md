@@ -31,3 +31,6 @@
 ![Apache](https://img.shields.io/badge/APACHE-red?style=for-the-badge&logo=apache&logoColor=white)
 ---
 
+## 📊 GitHub Stats
+
+![Bablu's GitHub stats](https://github-readme-stats.vercel.app/api?username=bablubca&show_icons=true&theme=radical)
