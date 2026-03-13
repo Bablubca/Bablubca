@@ -1,8 +1,10 @@
-# Welcome to My Profile!
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Welcome%20to%20My%20Profile!&section=header&fontAlignY=50&textBg=false&fontColor=9)
-## Hi 👋, I'm Bablu Kumar
 
-**Cybersecurity Researcher | VAPT | eJPT | Ethical Hacker | CTF Player**
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Welcome%20to%20My%20Profile!&section=header&fontAlignY=50&textBg=false&fontColor=9)
+<h2 align="center">Hi 👋, I'm Bablu Kumar</h2>
+
+<p align="center">
+<strong>Cybersecurity Researcher | VAPT | eJPT | Ethical Hacker | CTF Player</strong>
+</p>
 
 ---
 ## 💫 About Me
