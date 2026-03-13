@@ -3,7 +3,7 @@
 <h2 align="center">Hi 👋, I'm Bablu Kumar</h2>
 
 <p align="center">
-<strong>Cybersecurity Researcher | VAPT | eJPT | Ethical Hacker | CTF Player</strong>
+<strong>Cyber Security Enthusiast | VAPT | eJPT | Ethical Hacker | CTF Player | MCA |</strong>
 </p>
 
 ---
