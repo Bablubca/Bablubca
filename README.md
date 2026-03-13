@@ -7,6 +7,7 @@
 </p>
 
 ---
+
 ## 💫 About Me
 
 - 🎓 MCA Graduate with a strong interest in Cybersecurity
@@ -15,6 +16,14 @@
 - 📚 Preparing for CEH certification
 - 🚀 Passionate about Ethical Hacking
 ---
+## 🎓 Certifications & Achievements
+
+| Certificate | Organization | Link |
+|-------------|--------------|------|
+| Junior Penetration Tester | INE | [View Certificate](https://drive.google.com/file/d/1V_elAsZ7FZq-eiX70sm4gXxY1dEwXEUr/view?usp=drive_link) |
+| Cloud Associate | INE | [View Certificate](https://drive.google.com/file/d/1lPb6BN8_zx8QoxTVIyso5CoykEMpXGyR/view?usp=drive_link) |
+| Networking Basics | CISCO | [View Certificate](https://drive.google.com/file/d/1H9SD7ttCkcFC0Ktx9mg0JTHaF2xB8ihK/view?usp=drive_link) |
+| Cyber security 101 | TryHackMe | [View Certificate](https://drive.google.com/file/d/1lbKxIWBcCwhRPNyU8iy6DQabPTSD-Pk9/view?usp=drive_link)|
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bablu-mca)
