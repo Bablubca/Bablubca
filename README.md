@@ -34,3 +34,9 @@
 ## 📊 GitHub Stats
 
 ![Bablu's GitHub stats](https://github-readme-stats.vercel.app/api?username=bablubca&show_icons=true&theme=radical)
+## 🔥 GitHub Streak
+
+![](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
+## 📌 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=YOUR_USERNAME&limit=5&theme=radical)
