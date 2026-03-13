@@ -9,12 +9,11 @@
 ---
 ## 💫 About Me
 
-🎓 MCA Graduate with a strong interest in Cybersecurity  
-🔐 eJPT Certified Ethical Hacker  
-🛡️ Interested in VAPT (Vulnerability Assessment and Penetration Testing)  
-📚 Currently preparing for the CEH (Certified Ethical Hacker) certification  
-💻 Skilled in networking basics, web security, and penetration testing tools  
-🚀 Passionate about learning and practicing ethical hacking techniques
+- 🎓 MCA Graduate with a strong interest in Cybersecurity
+- 🔐 eJPT Certified Ethical Hacker
+- 🛡️ Interested in VAPT
+- 📚 Preparing for CEH certification
+- 🚀 Passionate about Ethical Hacking
 ---
 ## 🌐 Socials
 
