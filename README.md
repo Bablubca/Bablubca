@@ -1,5 +1,5 @@
 # Welcome to My Profile!
-
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Welcome%20to%20My%20Profile!&section=header&fontAlignY=50&textBg=false&fontColor=9)
 ## Hi 👋, I'm Bablu Kumar
 
 Cybersecurity Researcher | VAPT | eJPT | Ethical Hacker | CTF Player
@@ -28,5 +28,5 @@ Focused on CEH exam preparation to enhance my ethical hacking skills.
 
 ## Connect With Me
 
-- www.linkedin.com/in/bablu-mca
-- bablucyb10@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/bablu-mca)
+- [Email](mailto:bablucyb10@gmail.com)
